@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'merriamApi.apps.MerriamapiConfig',
+    'freeDict.apps.FreedictConfig',
 ]
 
 MIDDLEWARE = [
