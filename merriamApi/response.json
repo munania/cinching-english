@@ -1,0 +1,610 @@
+[
+    {
+      "meta": {
+        "id": "jury:1",
+        "uuid": "71222b57-7631-4c45-9ada-80608e0dc7a1",
+        "sort": "100078000",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "juries",
+          "jury"
+        ],
+        "offensive": false
+      },
+      "hom": 1,
+      "hwi": {
+        "hw": "ju*ry",
+        "prs": [
+          {
+            "mw": "ˈju̇r-ē",
+            "sound": {
+              "audio": "jury0001",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "ˈjər-"
+          }
+        ]
+      },
+      "fl": "noun",
+      "ins": [
+        {
+          "il": "plural",
+          "if": "ju*ries"
+        }
+      ],
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "sn": "1",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a body of persons sworn to give a verdict on some matter submitted to them"
+                    ]
+                  ],
+                  "sdsense": {
+                    "sd": "especially",
+                    "dt": [
+                      [
+                        "text",
+                        "{bc}a body of persons legally selected and sworn to inquire into any matter of fact and to give their verdict according to the evidence"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "2",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a committee for judging and awarding prizes at a contest or exhibition"
+                    ]
+                  ]
+                }
+              ]
+            ],
+            [
+              [
+                "sense",
+                {
+                  "sn": "3",
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}one (such as the public or test results) that will decide "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "used especially in the phrase {it}the jury is still out{/it}"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Middle English {it}jure{/it}, from Anglo-French {it}juree{/it}, from {it}jurer{/it} to swear, from Latin {it}jurare{/it}, from {it}jur-, jus{/it}"
+        ]
+      ],
+      "date": "15th century{ds||1||}",
+      "shortdef": [
+        "a body of persons sworn to give a verdict on some matter submitted to them; especially : a body of persons legally selected and sworn to inquire into any matter of fact and to give their verdict according to the evidence",
+        "a committee for judging and awarding prizes at a contest or exhibition",
+        "one (such as the public or test results) that will decide —used especially in the phrase the jury is still out"
+      ]
+    },
+    
+    {
+      "meta": {
+        "id": "jury:2",
+        "uuid": "96adc12a-6cba-4a7d-9c40-e4f81b9cb85e",
+        "sort": "100078100",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "juried",
+          "juries",
+          "jury",
+          "jurying"
+        ],
+        "offensive": false
+      },
+      "hom": 2,
+      "hwi": {
+        "hw": "jury"
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "ju*ried"
+        },
+        {
+          "if": "ju*ry*ing"
+        }
+      ],
+      "def": [
+        {
+          "vd": "transitive verb",
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to select material as appropriate for exhibition in (something, such as an art show) "
+                    ],
+                    [
+                      "uns",
+                      [
+                        [
+                          [
+                            "text",
+                            "used chiefly as a participle "
+                          ],
+                          [
+                            "vis",
+                            [
+                              {
+                                "t": "a {it}juried{/it} show"
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "{et_link|jury:1|jury:1}"
+        ]
+      ],
+      "date": "1947",
+      "shortdef": [
+        "to select material as appropriate for exhibition in (something, such as an art show) —used chiefly as a participle"
+      ]
+    },
+    {
+      "meta": {
+        "id": "jury:3",
+        "uuid": "0663ff32-aa69-4eee-a6b2-05e69c3128de",
+        "sort": "100078200",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "jury"
+        ],
+        "offensive": false
+      },
+      "hom": 3,
+      "hwi": {
+        "hw": "jury"
+      },
+      "fl": "adjective",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}improvised for temporary use especially in an emergency {bc}{sx|makeshift||} "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "a {wi}jury{/wi} mast"
+                        },
+                        {
+                          "t": "a {wi}jury{/wi} rig"
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "Middle English {it}jory{/it} (in {it}jory saile{/it} improvised sail)"
+        ]
+      ],
+      "date": "15th century",
+      "shortdef": [
+        "improvised for temporary use especially in an emergency : makeshift"
+      ]
+    },
+    {
+      "meta": {
+        "id": "jury nullification",
+        "uuid": "05dea098-60ec-4853-93a5-e02197188e29",
+        "sort": "100078300",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "jury nullification"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "jury nullification"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}the acquitting of a defendant by a jury in disregard of the judge's instructions and contrary to the jury's findings of fact"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "1972",
+      "shortdef": [
+        "the acquitting of a defendant by a jury in disregard of the judge's instructions and contrary to the jury's findings of fact"
+      ]
+    },
+    {
+      "meta": {
+        "id": "jury-rig",
+        "uuid": "bdfe07bb-74e9-496b-a810-3a8171211894",
+        "sort": "100078400",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "jury-rig",
+          "jury-rigged",
+          "jury-rigging",
+          "jury-rigs"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "ju*ry-rig",
+        "prs": [
+          {
+            "mw": "ˈju̇r-ē-ˌrig",
+            "sound": {
+              "audio": "juryri01",
+              "ref": "c",
+              "stat": "1"
+            }
+          },
+          {
+            "mw": "-ˈrig"
+          },
+          {
+            "mw": "ˈjər-"
+          }
+        ]
+      },
+      "fl": "verb",
+      "ins": [
+        {
+          "if": "ju*ry-rigged"
+        },
+        {
+          "if": "ju*ry-rig*ging"
+        },
+        {
+          "if": "ju*ry-rigs"
+        }
+      ],
+      "def": [
+        {
+          "vd": "transitive verb",
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}to erect, construct, or arrange in a makeshift fashion"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "et": [
+        [
+          "text",
+          "{et_link|jury:3|jury:3}"
+        ]
+      ],
+      "date": "1788",
+      "shortdef": [
+        "to erect, construct, or arrange in a makeshift fashion"
+      ]
+    },
+    {
+      "meta": {
+        "id": "jury duty",
+        "uuid": "2652b383-4bc6-4ea8-9a7c-a0363a4a9a42",
+        "sort": "3010319000",
+        "src": "ld",
+        "section": "idioms",
+        "stems": [
+          "jury duty"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "jury duty"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}service on a jury (a group of people who make a decision in a legal case) "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "He was selected for {it}jury duty{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "service on a jury (a group of people who make a decision in a legal case)"
+      ]
+    },
+    {
+      "meta": {
+        "id": "jury panel",
+        "uuid": "f2911ca0-0ef4-4477-8575-8e0837253414",
+        "sort": "3010320000",
+        "src": "ld",
+        "section": "idioms",
+        "stems": [
+          "jury panel"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "jury panel"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sls": [
+            "US"
+          ],
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a group of people who are chosen to be jurors"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a group of people who are chosen to be jurors"
+      ]
+    },
+    {
+      "meta": {
+        "id": "jury trial",
+        "uuid": "6ff0c604-9e78-440f-bb72-246d861236c6",
+        "sort": "3010323000",
+        "src": "ld",
+        "section": "idioms",
+        "stems": [
+          "jury trial"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "jury trial"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a trial that is decided by a jury "
+                    ],
+                    [
+                      "vis",
+                      [
+                        {
+                          "t": "I demand my right to a {it}jury trial{/it}."
+                        }
+                      ]
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "shortdef": [
+        "a trial that is decided by a jury"
+      ]
+    },
+    {
+      "meta": {
+        "id": "grand jury",
+        "uuid": "2bcbf3e1-1f13-4ade-bc84-9f98c27e2323",
+        "sort": "072098000",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "grand juries",
+          "grand juror",
+          "grand jurors",
+          "grand jury"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "grand jury"
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a jury that examines accusations against persons charged with crime and if the evidence warrants makes formal charges on which the accused persons are later tried"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "uros": [
+        {
+          "ure": "grand juror",
+          "fl": "noun"
+        }
+      ],
+      "date": "15th century",
+      "shortdef": [
+        "a jury that examines accusations against persons charged with crime and if the evidence warrants makes formal charges on which the accused persons are later tried"
+      ]
+    },
+    {
+      "meta": {
+        "id": "petit jury",
+        "uuid": "9e82c8c8-f9e9-4d2f-a37e-6de5569b11f6",
+        "sort": "160217600",
+        "src": "collegiate",
+        "section": "alpha",
+        "stems": [
+          "petit juries",
+          "petit jury"
+        ],
+        "offensive": false
+      },
+      "hwi": {
+        "hw": "pet*it jury",
+        "prs": [
+          {
+            "mw": "ˈpe-tē-",
+            "sound": {
+              "audio": "petitj01",
+              "ref": "c",
+              "stat": "1"
+            }
+          }
+        ]
+      },
+      "fl": "noun",
+      "def": [
+        {
+          "sseq": [
+            [
+              [
+                "sense",
+                {
+                  "dt": [
+                    [
+                      "text",
+                      "{bc}a jury of 12 persons impaneled to try and to decide finally upon the facts at issue in causes for trial in a court"
+                    ]
+                  ]
+                }
+              ]
+            ]
+          ]
+        }
+      ],
+      "date": "15th century",
+      "shortdef": [
+        "a jury of 12 persons impaneled to try and to decide finally upon the facts at issue in causes for trial in a court"
+      ]
+    }
+  ]
