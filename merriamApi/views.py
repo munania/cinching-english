@@ -19,6 +19,3 @@ def index(request):
     context = { 'response': response }
         
     return render(request, 'merriamApi/index.html', context=context)
-
-
-    return render(request, 'merriamApi/index.html', context=context)

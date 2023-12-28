@@ -25,13 +25,50 @@
 
         {% for meaning in response %}
 
-            {{ meaning.meanings }}<br>
+        <div class="card"  style="margin-top: 50px; margin-bottom: 50px;">        
+            <div class="card-body">
+            <h3 class="card-title">{{ meaning.word }}</h3>
+                    <blockquote class="blockquote mb-0">
+                        <p>Phonetics</p>
+                        <footer class="blockquote-footer">{{ meaning.phonetic|cut:"/" }}</footer>
+                    </blockquote>
 
-            {% for def in meaning.definitions %}
 
-                <li> {{ def.definition }} </li>
+            {% for partofspeech in meaning.meanings%}
+                <blockquote class="blockquote mb-0">
+                    <p>Part of Speech</p>
+                    <footer class="blockquote-footer">{{ partofspeech.partOfSpeech }}</footer>
+                </blockquote>
+            
+                
+                <h3 class="card-title">Definitions</h3>
+                <ul class="list-group list-group-flush">
+                    {% for def in partofspeech.definitions %}
+                        <li class="list-group-item">{{ def.definition }}</li>
+
+                        {% if def.synonyms %}
+                            <li class="list-group-item">Example(s) - {{ def.synonyms }}</li>
+                        {% endif %}
+                        {% if def.antonyms %}
+                            <li class="list-group-item">Example(s) - {{ def.antonyms }}</li>
+                        {% endif %}
+                        {% if def.example %}
+                            <li class="list-group-item">Example(s) - {{ def.example }}</li>
+                        {% endif %}
+
+                    {% endfor %}
+
+                    </li>
+                </ul>
             
             {% endfor %}
+        
+            
+
+
+            <p class="card-text"> </p>
+            </div>
+        </div>
 
         {% endfor %}
 

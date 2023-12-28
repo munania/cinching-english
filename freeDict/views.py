@@ -4,7 +4,18 @@ import requests
 # Create your views here.
 
 def freeDict(request):
-    response = requests.get(' https://api.dictionaryapi.dev/api/v2/entries/en/jury').json()
+
+    if request.method == 'POST':
+        word = request.POST.get('word', '')
+        if word:
+            url = f'https://api.dictionaryapi.dev/api/v2/entries/en/{word}'
+            response = requests.get(url).json()
+        
+        else:
+            response = None
+
+    else:
+        response = None
 
     context = {'response': response}
 
